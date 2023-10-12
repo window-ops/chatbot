@@ -1,6 +1,8 @@
 # Chatbot
 
-This is a chatbot in PySimpleGUI using microsoft/DialoGPT-large.
+This is a basic chatbot in PySimpleGUI using microsoft/DialoGPT-large.
+
+Its functions are severely limited and prone to bugs.
 
 ## Installation
 
